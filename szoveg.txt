@@ -1,4 +1,1 @@
-Lorem Ipsum 2 
-harmadik változtatás
-negyedik változtatás
-ötödik változtatás
+Hello World!
